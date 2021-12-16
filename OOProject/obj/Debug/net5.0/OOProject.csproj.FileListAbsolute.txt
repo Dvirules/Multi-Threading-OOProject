@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.exe
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.deps.json
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.runtimeconfig.json
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.runtimeconfig.dev.json
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.dll
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\ref\OOProject.dll
+C:\Users\user\source\repos\OOProject\OOProject\bin\Debug\net5.0\OOProject.pdb
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.AssemblyInfo.cs
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.dll
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\ref\OOProject.dll
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.pdb
+C:\Users\user\source\repos\OOProject\OOProject\obj\Debug\net5.0\OOProject.genruntimeconfig.cache
